@@ -14,3 +14,22 @@ console.log(myVar.toUpperCase());
 console.log(myVar.includes("at"));
 console.log(myVar.split(""));
 
+
+const myNum=42;
+const myFloat=42.04;
+console.log(myNum);
+console.log(myFloat);
+const myString="42";
+console.log(Number(myString));
+console.log(Number.isInteger(myString));
+console.log(Number.parseFloat(myString));
+console.log(Number(myString));
+console.log(Number("myString"));
+console.log(Number.isNaN(myString));
+console.log(isNaN("verma"));
+
+
+
+
+
+
